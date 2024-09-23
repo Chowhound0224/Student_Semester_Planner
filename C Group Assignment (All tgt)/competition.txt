@@ -1,0 +1,3 @@
+COMP00001,Google Hackathon,2023-08-03,Atrium
+COMP00002,Debate Competiton,2023-04-30,B-06-09
+COMP00003,Robotics Competiton,2023-10-27,Atrium

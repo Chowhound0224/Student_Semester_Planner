@@ -1,0 +1,6 @@
+COOR00001,NICOLE WONG,20,25-09-2003,6421728,puchong,F,0112759377,nicolewong1234@gmail.com,chinese,malaysian,nicole1234,Active
+COOR00002,KENNY CHAI,20,29-10-2003,6421728,kepong,M,0147638945,kennychai@gmail.com,chinese,malaysian,kenny1234,Active
+COOR00003,CONNIE,20,24-09-2003,030924120956,damansara,F,0117448292,connie@gmail.com,Chinese,Malaysian,connie_0924,Active
+COOR00003,HANNAH LEE,26,23-09-1997,970923093566,taiping,F,011647783,hannahl@hotmail.com,Chinese,Malaysian,hannah1234,Graduated
+COOR00005,SELINA LOW,20,30-05-2003,030530120846,Kepong,F,0117388837,selinalow@gmail.com,Chinese,Malaysian,selina_low1234,Active
+COOR00006,HOWARD LEE,25,24-09-1998,980924064931,PUCHONG,M,0110928384,howard@gmail.com,Chinese,Malaysian,howard1234,Active

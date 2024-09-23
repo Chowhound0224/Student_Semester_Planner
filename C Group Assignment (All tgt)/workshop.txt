@@ -1,0 +1,4 @@
+TALK00001,Machine Learning Basics Talk,2023-06-09,10:00,16:00,Auditorium 3
+TALK00002,Ethical Hacking 101 Workshop,2023-07-08,14:00,17:30,E-08-02
+TALK00003,Financial Freedom Talk,2023-10-23,15:00,17:00,Auditorium 1
+TALK00004,Career Talk,2023-10-22,10:15,12:15,Auditorium 4

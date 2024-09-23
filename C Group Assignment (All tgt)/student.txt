@@ -1,0 +1,11 @@
+STUD00001,JACKSON HOW,24,13/6/2003,959460144,Penang,M,0196868355,jackjon836@gmail.com,Chinese,Malaysian,Jackson999,Active
+STUD00002,JADEN LEE,20,15/09/2003,959460144,Kepong,M,0196868355,jadenlee@gmail.com,Chinese,Malaysian,ty,Graduated
+STUD00003,CHIN PEI FUNG,19,24/02/2003,6421840,Puchong,F,0115739574,chinpeifung0224@gmail.com,chinese,malaysian,chin1234,Active
+STUD00004,CADEN LEE,21,25-01-2002,6421728,Puchong,M,0118392033,caden@7890@hotmail.com,kadazan,malaysian,caden1234,Active
+STUD00005,FUNG YII TENG,20,17-02-2003,030217120950,Sabah,F,0119588894,fungyiiteng0217@gmail.com,Chinese,Malaysian,fung_0217,Active
+STUD00006,DEBBIE WONG,21,21-06-2002,020621120550,Penang,F,0118389930,debbiewong@gmail.com,Chinese,Malaysian,debbie1234,Active
+STUD00007,CASSANDRA CHIN,20,29-09-2003,030929090362,Kelantan,F,0119288292,kelsy@gmail.com,Chinese,Malaysian,kelsy_1234,Active
+STUD00008,ABU,20,12-11-2000,00113124141,Rambutan,F,231312,asdas,running,china,iloveapu123,Active
+STUD00009,MELISA WONG,21,29-04-2002,020429060474,PETALING JAYA,F,0117582294,melisa0429@gmail.com,Chinese,Malaysian,candy1234,Active
+STUD00010,HOWARD HIEW,19,29-04-2002,020429060466,PUCHONG,M,01839434343,324234dsfjksdfrf,fsdff,fsfggerger,melisa1234,Active
+STUD00011,DANIAL LEE,20,24-09-2003,030924120941,SHAH ALAM,M,01118273382,danial@gmail.com,Chinese,Malaysian,danial1234,Active

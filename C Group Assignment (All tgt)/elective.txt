@@ -1,0 +1,4 @@
+ELEC00001,CSY1S1,Network Security,WED,13:00,14:00,Tech Lab 04-07,3
+ELEC00002,CSY1S1,Mobile Technology,TUE,15:45,17:45,E-06-03,4
+ELEC00003,CSY1S2,Blockchain Development,TUE,09:15,10:45,D-07-07,4
+ELEC00004,CSY1S2,Cloud Computing,MON,13:00,15:00,Auditorium 1,3

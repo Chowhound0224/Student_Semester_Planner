@@ -1,0 +1,7 @@
+ADMIN00001,CANDY WONG,20,06-11-2003,031106090270,Kepong,F,0114637782,candy@gmail.com,Chinese,Malaysian,candy1234,Active
+ADMIN00002,GENNA FONG,20,11-10-2003,031011120744,Wawasan,F,0115672284,genna@yahoo.com,Kadazan,Malaysian,genna5678,Graduated
+ADMIN00003,AUDREY,25,24-09-1998,980924120990,Kelantan,F,0153778298,audrey@gmail.com,Chinese,Malaysian,aud_rey1234,Active
+ADMIN00004,DANIAL LEE,31,09-11-1992,921109064787,Damansara,M,0118399933,danial@gmail.com,Chinese,Malaysian,danial1234,Left
+ADMIN00005,SHANICE LIEW,20,19-08-2003,030812060920,SHAH ALAM,F,011-1929102,shanicelee@gmail.com,Chinese,Malaysian,shanice7890,Active
+ADMIN00006,JACKSON HOW,20,25-09-2003,030925060371,JOHOR MUAR,M,0113775868,jacksonhow0925@gmail.com,Chinese,Malaysian,jackson1234,Active
+ADMIN00007,DANIAL LEE,-2,24-09-1998,980924067811,PUCHONG,M,01192837722,danial@gmail.com,Chinese,Malaysian,danial0990,Active

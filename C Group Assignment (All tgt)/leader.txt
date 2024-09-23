@@ -1,0 +1,4 @@
+LEAD00001,DANNY LEE,20,04-10-2003,6421812,Selangor,M,0118372984,dannylee6789@gmail.com,chinese,malaysian,danny1234,Active
+LEAD00002,JENNY LIM,20,17-06-2003,6421728,Taiping,F,0112839999,jenny@gmail.com,chinese,malaysian,jenny1234,Active
+LEAD00003,JENIFFER WONG,30,13-01-1993,930113090366,Dubai,F,0117277282,jennifer,Chinese,Malaysian,jeniffer1234,Left
+LEAD00004,HANNAH WONG,20,23-09-2003,030923060396,PUCHONG,R,0119389933,hannah@gmail.com,CHinese,Malaysian,1234,Active

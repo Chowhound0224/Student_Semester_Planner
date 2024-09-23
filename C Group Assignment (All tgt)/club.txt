@@ -1,0 +1,2 @@
+CLUB00001,Swimming Club
+CLUB00002,Chess Club
